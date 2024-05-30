@@ -13,8 +13,16 @@ The lab also has experience with web-app development using Python-and-Javascript
 Here are some resources:
 
 ## Python
+- Python Tutorial. W3Schools. https://www.w3schools.com/python/
 
 ## R
+- R Tutorial. W3Schools. https://www.w3schools.com/r/
+
+- R Cheat Sheets. https://rstudio.github.io/cheatsheets/
+
+- Tidyverse Packages. https://www.tidyverse.org/packages/
+
+- Bioconductor. https://bioconductor.org/
 
 ## Snakemake
 
