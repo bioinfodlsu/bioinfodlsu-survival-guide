@@ -1,11 +1,11 @@
 # Bioinformatics Lab Survival Guide 
+The title is a misnomer -- this is not a guide for surviving, but for thriving !
 
-The objective of this document is to provide reference material for questions often asked by students planning to join or starting out at the Bioinformatics Lab.
+The objective of this document is to provide reference material for questions often asked by students and newcomers at the Bioinformatics Lab.
 
-The title is a misnomer -- this is not a guide for surviving, but for thriving.\\
-If you strive, you will thrive. 
+This will forever be a work in progress.
 
-On that note, a warm welcome to the Bioinformatics Lab.
+
 
 ```{tableofcontents}
 ```

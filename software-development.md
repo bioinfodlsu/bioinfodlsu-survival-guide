@@ -1,4 +1,6 @@
-# Apart from programming languages, what software development skill do I need?
+# What software development skill do I need?
+The first thing is obviously knowing and choosing programming language(s) appropriate for your task.
+Here's a short discussion on that here: {ref}`content:programming_languages`
 
 Let's say you are writing a super cool software that does amazing things.
 

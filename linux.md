@@ -7,10 +7,30 @@ One reason for this is that bioinformatics projects tend to be free and open-sou
 Another reason is that bioinformatics tools need to run on high-performance-computing environments or on cloud computing resources, 
 all of which run on Unix-like systems.
 
+## How to install?
 Luckily, even if you are only used to Windows, it is very easy these days to install a modern Linux OS on a virtual machine using VirtualBox or VMware or WSL.
+Here are some guides that might be helpful.
+### Install Linux via WSL
+- https://learn.microsoft.com/en-us/windows/wsl/about
 
-## WSL
+### Install Linux on a VM
+- https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview
 
-## VirtualBox
+### Install on hardware
+- https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
 
-## VMWare
+
+## Command line
+The strength of Unix-like OS is a powerful shell that allows you to write commands for the OS to perform. 
+This especially useful when dealing with huge data files, as is often the case in bioinformatics.
+
+Here are some tutorials that might come in handy in your journey to be a super command-line user.
+
+### Bash
+- https://learn.microsoft.com/en-us/training/modules/bash-introduction/1-what-is-bash
+
+### awk
+- https://www.gnu.org/software/gawk/manual/html_node/Getting-Started.html
+- https://rc.fas.harvard.edu/wp-content/uploads/2017/03/AWK.pdf
+
+### sed

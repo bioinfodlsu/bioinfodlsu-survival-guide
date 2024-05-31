@@ -4,7 +4,9 @@
 format: jb-book
 root: intro
 chapters:
+- file: labculture
 - file: bioinfo-textbooks
 - file: computing-resources
-- file: programming-languages
 - file: linux
+- file: programming-languages
+- file: software-development
