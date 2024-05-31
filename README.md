@@ -13,7 +13,7 @@ jupyter-book build .
 The home page for the book can be found at `_build/index.html`.
 
 
-For deploying, you need to `ghp-import`. Get it., e.g. via conda:
+For deploying, you need to `ghp-import`. Get it, e.g. via conda:
 ```
 conda install -c conda-forge ghp-import
 ```
