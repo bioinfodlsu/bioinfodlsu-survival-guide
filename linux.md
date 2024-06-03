@@ -9,11 +9,14 @@ all of which run on Unix-like systems.
 
 ## How to install?
 Luckily, even if you are only used to Windows, it is very easy these days to install a modern Linux OS on a virtual machine using VirtualBox or VMware or WSL.
-Here are some guides that might be helpful.
+Here are some guides that might be helpful:
+
 ### Install Linux via WSL
 - https://learn.microsoft.com/en-us/windows/wsl/about
+- Enabling GPU passthrough: https://docs.nvidia.com/cuda/wsl-user-guide/
 
 ### Install Linux on a VM
+- https://docs.vmware.com/en/VMware-Horizon/2306/linux-desktops-setup/GUID-51C371A9-4D76-4A8C-8645-909E93080B4F.html
 - https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview
 
 ### Install on hardware
@@ -29,8 +32,17 @@ Here are some tutorials that might come in handy in your journey to be a super c
 ### Bash
 - https://learn.microsoft.com/en-us/training/modules/bash-introduction/1-what-is-bash
 
-### awk
+### Basic operations: `cp`, `mv`, and `rm`
+
+### Text processing: `grep`, `awk`, and `sed`
 - https://www.gnu.org/software/gawk/manual/html_node/Getting-Started.html
 - https://rc.fas.harvard.edu/wp-content/uploads/2017/03/AWK.pdf
 
-### sed
+### Displaying text files: `cat` and `less`
+
+### Text editors: `nano`, `vim`, and `emacs`
+(Choose your [editor](https://en.wikipedia.org/wiki/Editor_war))
+
+### Downloading files: `wget` and `curl`
+
+### Downloading from and uploading to Google Drive: `gdown` and `rclone`
