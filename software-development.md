@@ -13,11 +13,17 @@ Surely, you want the world to use it. If your software has a lot of dependencies
 
 
 
-## Version control using Git and Github
+## Version control using Git and GitHub
+- https://www.w3schools.com/git/
+
+## Conda
+- https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
 ## Docker
+- https://docs.docker.com/
 
 ## Apptainer
+- https://apptainer.org/docs/user/main/quick_start.html
 
 ## Documentation
 
