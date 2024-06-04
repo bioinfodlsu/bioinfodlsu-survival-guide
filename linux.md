@@ -29,19 +29,30 @@ This especially useful when dealing with huge data files, as is often the case i
 
 Here are some tutorials that might come in handy in your journey to be a super command-line user.
 
-### Bash
+### Basic Bash commands
 - https://learn.microsoft.com/en-us/training/modules/bash-introduction/1-what-is-bash
-
-### Basic operations: `cp`, `mv`, and `rm`
+- https://www.digitalocean.com/community/tutorials/linux-commands
 
 ### Text processing: `grep`, `awk`, and `sed`
+- https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix
 - https://www.gnu.org/software/gawk/manual/html_node/Getting-Started.html
 - https://rc.fas.harvard.edu/wp-content/uploads/2017/03/AWK.pdf
+- https://www.digitalocean.com/community/tutorial-series/using-sed
 
 ### Displaying text files: `cat` and `less`
+- https://www.ibm.com/docs/fi/aix/7.2?topic=c-cat-command
+- https://linuxhandbook.com/less-command/
 
 ### Text editors: `nano`, `vim`, and `emacs`
 (Choose your [editor](https://en.wikipedia.org/wiki/Editor_war))
+- https://staffwww.fullcoll.edu/sedwards/Nano/IntroToNano.html
+- https://web.stanford.edu/class/cs107/resources/vim
+- https://www.gnu.org/software/emacs/tour/
+
+### Compressing and extracting files: `tar`, `zip`, and `unzip`
+- https://www.digitalocean.com/community/tutorials/an-introduction-to-file-compression-tools-on-linux-servers
+- https://linux.die.net/man/1/zip
+- https://linux.die.net/man/1/unzip
 
 ### Downloading files: `wget` and `curl`
 - https://www.digitalocean.com/community/tutorials/how-to-use-wget-to-download-files-and-interact-with-rest-apis
@@ -51,3 +62,13 @@ Here are some tutorials that might come in handy in your journey to be a super c
 - Google Drive: https://github.com/wkentaro/gdown
 - Zenodo: https://github.com/jhpoelen/zenodo-upload
 - Google Drive, Amazon S3, etc.: https://rclone.org/
+
+### Managing processes: `ps`, `top`, and `kill`
+- https://www.digitalocean.com/community/tutorials/process-management-in-linux
+
+### Managing multiple terminals: `tmux` and `screen`
+- https://github.com/tmux/tmux/wiki
+- https://www.gnu.org/software/screen/manual/screen.html
+
+### Editing the `PATH` environment variable
+- https://www.digitalocean.com/community/tutorials/how-to-view-and-update-the-linux-path-environment-variable
