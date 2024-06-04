@@ -29,7 +29,8 @@ Surely, you want the world to use it. If your software has a lot of dependencies
 - https://apptainer.org/docs/user/main/quick_start.html
 
 ## Documentation
-
+- Sphinx (Python): https://www.sphinx-doc.org/en/master/
+- Jupyter Book: https://jupyterbook.org/en/stable/intro.html
 
 ## GitHub Actions
 - https://docs.github.com/en/actions/quickstart
