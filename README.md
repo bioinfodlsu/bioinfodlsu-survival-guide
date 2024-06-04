@@ -1,3 +1,6 @@
+# Bioinformatics Lab Survival Guide
+[![Build and deploy Jupyter book](https://github.com/bioinfodlsu/bioinfodlsu-survival-guide/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/bioinfodlsu/bioinfodlsu-survival-guide/actions/workflows/build-and-deploy.yml)
+
 This is a jupyter book providing a collection of reference material for FAQ from members/applicants of Bioinformatics Lab, DLSU Manila.
 It is hosted using Github Pages at: https://bioinfodlsu.com/bioinfodlsu-survival-guide/intro.html
 
