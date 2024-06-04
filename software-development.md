@@ -18,12 +18,18 @@ Surely, you want the world to use it. If your software has a lot of dependencies
 
 ## Conda
 - https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
+- https://bioconda.github.io/
+- Miniconda (small bootstrap version of Anaconda): https://docs.anaconda.com/free/miniconda/ 
 
 ## Docker
 - https://docs.docker.com/
+- Collection of useful bioinformatics Docker images: https://pegi3s.github.io/dockerfiles/
 
 ## Apptainer
 - https://apptainer.org/docs/user/main/quick_start.html
 
 ## Documentation
 
+
+## GitHub Actions
+- https://docs.github.com/en/actions/quickstart
