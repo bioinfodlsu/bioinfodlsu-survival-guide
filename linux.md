@@ -16,7 +16,7 @@ Here are some guides that might be helpful:
 - Enabling GPU passthrough: https://docs.nvidia.com/cuda/wsl-user-guide/
 
 ### Install Linux on a VM
-- https://docs.vmware.com/en/VMware-Horizon/2306/linux-desktops-setup/GUID-51C371A9-4D76-4A8C-8645-909E93080B4F.html
+- https://laptops.eng.uci.edu/engineering-software/using-linux/how-to-set-up-linux-in-a-vm-virtual-machine
 - https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview
 
 ### Install on hardware
@@ -44,5 +44,10 @@ Here are some tutorials that might come in handy in your journey to be a super c
 (Choose your [editor](https://en.wikipedia.org/wiki/Editor_war))
 
 ### Downloading files: `wget` and `curl`
-
-### Downloading from and uploading to Google Drive: `gdown` and `rclone`
+- https://www.digitalocean.com/community/tutorials/how-to-use-wget-to-download-files-and-interact-with-rest-apis
+- https://curl.se/docs/tutorial.html
+  
+### Downloading from and uploading to cloud storage
+- Google Drive: https://github.com/wkentaro/gdown
+- Zenodo: https://github.com/jhpoelen/zenodo-upload
+- Google Drive, Amazon S3, etc.: https://rclone.org/
