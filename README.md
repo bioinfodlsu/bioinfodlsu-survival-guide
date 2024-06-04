@@ -6,7 +6,7 @@ For building, you need `Jupyter Book`. Get it, e.g. via conda:
 conda install -c conda-forge jupyter-book
 ```
 
-To build, inside the `bioinfodlsu-surviva-guide` directory, with the conda environment activated, run: 
+To build, inside the `bioinfodlsu-survival-guide` directory, with the conda environment activated, run: 
 ```
 jupyter-book build .
 ```
