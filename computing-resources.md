@@ -1,4 +1,4 @@
-# What computing resources are available ?
+# What computing resources are available?
 
 For some projects, a powerful personal computer might be sufficient. 
 
