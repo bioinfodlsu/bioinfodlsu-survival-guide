@@ -7,9 +7,9 @@ If you need to do some big-data analysis, you will probably be using Python or R
 
 If you are building your own software, you might want to do rapid prototyping in Python; but if speed is a concern, you might want to build it in, say C++. Previously, students have also used Rust.
 
-If you are building a pipeline that ties together separate existing tools for your own bespoke analysis, then you might want to look at workflow management systems like Snakemake, WDL.
+If you are building a pipeline that ties together separate existing tools for your own bespoke analysis, then you might want to look at workflow management systems like Snakemake, WDL, and Nextflow.
 
-The lab also has experience with web-app development using Python-and-Javascript-based frameworks like Flask, Dash. 
+The lab also has experience with web application development using Python- and-Javascript-based frameworks like Flask and Dash. 
 
 Here are some resources:
 
@@ -29,5 +29,6 @@ Here are some resources:
 
 ## WDL
 
-
-
+## Nextflow
+- https://training.nextflow.io
+- https://github.com/seqeralabs/nextflow-tutorial
