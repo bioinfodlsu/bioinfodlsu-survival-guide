@@ -18,7 +18,8 @@ Surely, you want the world to use it. If your software has a lot of dependencies
 
 ## Conda
 - https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
-- https://bioconda.github.io/
+
+When you install a package via Conda, it searches for the package in repositories (called channels). If the package is not available in Conda's default channel, alternative channels include [conda-forge](https://conda-forge.org/) and [Bioconda](https://bioconda.github.io/).
 
 Conda's dependency resolution tends to be slow, so here are some faster alternatives:
 - Miniconda: https://docs.anaconda.com/free/miniconda/ 
