@@ -19,7 +19,10 @@ Surely, you want the world to use it. If your software has a lot of dependencies
 ## Conda
 - https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 - https://bioconda.github.io/
-- Miniconda (small bootstrap version of Anaconda): https://docs.anaconda.com/free/miniconda/ 
+
+Conda's dependency resolution tends to be slow, so here are some faster alternatives:
+- Miniconda: https://docs.anaconda.com/free/miniconda/ 
+- Micromamba: https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html
 
 ## Docker
 - https://docs.docker.com/
