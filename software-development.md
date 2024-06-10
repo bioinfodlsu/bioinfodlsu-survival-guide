@@ -18,8 +18,12 @@ Surely, you want the world to use it. If your software has a lot of dependencies
 
 ## Conda
 - https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
-- https://bioconda.github.io/
-- Miniconda (small bootstrap version of Anaconda): https://docs.anaconda.com/free/miniconda/ 
+
+When you install a package via Conda, it searches for the package in repositories (called channels). If the package is not available in Conda's default channel, alternative channels include [conda-forge](https://conda-forge.org/) and [Bioconda](https://bioconda.github.io/). We recommend using conda-forge for the reasons listed [here](https://conda-forge.org/docs/user/introduction/#why-conda-forge).
+
+Note that Conda's dependency resolution tends to be slow, so here are some faster alternatives:
+- Miniconda: https://docs.anaconda.com/free/miniconda/ 
+- Micromamba: https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html
 
 ## Docker
 - https://docs.docker.com/

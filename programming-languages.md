@@ -14,16 +14,14 @@ The lab also has experience with web application development using Python- and-J
 Here are some resources:
 
 ## Python
-- Python Tutorial. W3Schools. https://www.w3schools.com/python/
+- Python tutorial: https://www.w3schools.com/python/
 
 ## R
-- R Tutorial. W3Schools. https://www.w3schools.com/r/
-
-- R Cheat Sheets. https://rstudio.github.io/cheatsheets/
-
-- Tidyverse Packages. https://www.tidyverse.org/packages/
-
-- Bioconductor. https://bioconductor.org/
+- R tutorial: https://www.w3schools.com/r/
+- R cheat sheets: https://rstudio.github.io/cheatsheets/
+- Tidyverse: https://www.tidyverse.org/packages/
+- Bioconductor: https://bioconductor.org/
+- R for biologists: https://melbintgen.github.io/intro-to-r/intro_r_biologists.html
 
 ## Snakemake
 
