@@ -16,11 +16,16 @@ Nonetheless, here are some recommendations to learn the foundational concepts in
 - Alberts, Heald, Hopkin, Johnson, Morgan, Roberts, Walter (2023). Essential Cell Biology Sixth Edition. W.W. Norton (or earlier editions)
 
 ## Machine Learning
+
+### General Machine Learning
 - Christopher Bishop (2006). Pattern Recognition and Machine Learning. https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/
 
 - Tom Mitchell (1997). McGraw Hill. https://www.cs.cmu.edu/~tom/mlbook.html
 
 - Stanford CS229 (Machine Learning) Lecture Notes. https://cs229.stanford.edu/main_notes.pdf
+
+### Machine Learning for Bioinformatics, Biology, and the Life Sciences
+- Machine Learning in Life Sciences. https://github.com/bwgoudey/IntroMLforLifeScienceWorkshopR <br> (Accompanying Google Colab: https://colab.research.google.com/drive/1k4jeQXKge4ea6EHY5htg8PLo0FcapQdM?usp=sharing)
 
 ## Free Online Books
 - T.A. Brown (2002). Genomes 2. https://www.ncbi.nlm.nih.gov/books/NBK21128/
