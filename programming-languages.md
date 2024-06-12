@@ -22,7 +22,7 @@ Here are some resources:
 - Tidyverse: https://www.tidyverse.org/packages/
 - Bioconductor: https://bioconductor.org/
 - R for biologists: https://melbintgen.github.io/intro-to-r/intro_r_biologists.html
-- R and R Studio for genomics: https://datacarpentry.org/genomics-r-intro/index.html
+- R and RStudio for genomics: https://datacarpentry.org/genomics-r-intro/index.html
 
 ## Snakemake
 
