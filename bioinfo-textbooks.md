@@ -25,7 +25,7 @@ Nonetheless, here are some recommendations to learn the foundational concepts in
 - Stanford CS229 (Machine Learning) Lecture Notes. https://cs229.stanford.edu/main_notes.pdf
 
 ### Machine Learning for Bioinformatics, Biology, and the Life Sciences
-- Machine Learning in Life Sciences. https://github.com/bwgoudey/IntroMLforLifeScienceWorkshopR <br> (Accompanying Google Colab: https://colab.research.google.com/drive/1k4jeQXKge4ea6EHY5htg8PLo0FcapQdM?usp=sharing)
+- Machine Learning in Life Sciences. https://github.com/bwgoudey/IntroMLforLifeScienceWorkshopR <br> Accompanying Colab notebook: https://colab.research.google.com/drive/1k4jeQXKge4ea6EHY5htg8PLo0FcapQdM?usp=sharing
 
 ## Free Online Books
 - T.A. Brown (2002). Genomes 2. https://www.ncbi.nlm.nih.gov/books/NBK21128/
