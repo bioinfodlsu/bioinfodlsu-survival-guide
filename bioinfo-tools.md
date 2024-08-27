@@ -37,7 +37,7 @@ Below are some of the tools that have been used by our lab for common bioinforma
     -   Paper: https://www.nature.com/articles/s41586-021-03819-2
     -   Website: https://deepmind.google/technologies/alphafold/
 
--   Colabfold
+-   ColabFold
 
     -   Paper: https://www.nature.com/articles/s41592-022-01488-1
     -   Website: https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb
