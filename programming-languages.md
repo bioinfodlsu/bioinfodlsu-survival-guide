@@ -17,6 +17,7 @@ Here are some resources:
 - Python tutorial: https://www.w3schools.com/python/
 
 ## R
+- Our lab's basic R tutorial: https://bioinfodlsu.com/basic-r-tutorial/
 - R tutorial: https://www.w3schools.com/r/
 - R cheat sheets: https://rstudio.github.io/cheatsheets/
 - Tidyverse: https://www.tidyverse.org/packages/
@@ -25,8 +26,10 @@ Here are some resources:
 - R and RStudio for genomics: https://datacarpentry.org/genomics-r-intro/index.html
 
 ## Snakemake
+- https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 
 ## WDL
+- https://github.com/openwdl/learn-wdl
 
 ## Nextflow
 - https://training.nextflow.io
