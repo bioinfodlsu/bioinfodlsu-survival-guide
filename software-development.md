@@ -27,6 +27,7 @@ Note that Conda's dependency resolution tends to be slow, so here are some faste
 
 ## Docker
 - https://docs.docker.com/
+- https://wehi-education.github.io/docker-introduction/
 - Collection of useful bioinformatics Docker images: https://pegi3s.github.io/dockerfiles/
 
 ## Apptainer
