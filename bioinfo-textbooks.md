@@ -48,3 +48,5 @@ Nonetheless, here are some recommendations to learn the foundational concepts in
 -   Bengio, Courville, Bengio (2016). Deep Learning. MIT Press. https://github.com/janishar/mit-deep-learning-book-pdf
 
 -   Machine Learning Glossary. https://developers.google.com/machine-learning/glossary
+
+-   How I Would Learn Bioinformatics From Scratch 12 Years Later: A Roadmap. https://divingintogeneticsandgenomics.com/post/bioinfo-roadmap/
